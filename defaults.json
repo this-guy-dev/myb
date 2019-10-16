@@ -1,0 +1,211 @@
+{
+  "stores":
+  [
+    {
+      "name": "The COOP",
+      "location_id": 4,
+      "items": [8, 9, 10, 12]
+    },
+    {
+      "name": "Dunkin Donuts",
+      "location_id": 1,
+      "items": [7, 10, 12]
+    },
+    {
+      "name": "Diesel Cafe",
+      "location_id": 2,
+      "items": [9, 10, 12]
+    },
+    {
+    "name": "Star Market",
+    "location_id": 3,
+    "items": [1, 2, 3, 4, 7, 8, 9, 10]
+    },
+    {
+      "name": "Boston Tea Party Ships & Museum",
+      "location_id": 10,
+      "items": [11, 12]
+    },
+    {
+      "name": "Best Buy",
+      "location_id": 12,
+      "items": [13, 14]
+    }
+  ],
+  "locations":
+  [
+    {
+      "name": "Alewife",
+      "id": 1
+    },
+    {
+      "name": "Davis",
+      "id": 2
+    },
+    {
+      "name": "Porter",
+      "id": 3
+    },
+    {
+      "name": "Harvard",
+      "id": 4
+    },
+    {
+      "name": "Central",
+      "id": 5
+    },
+    {
+      "name": "Kendall/MIT",
+      "id": 6
+    },
+    {
+      "name": "Charles/MGH",
+      "id": 7
+    },
+    {
+      "name": "Park Street",
+      "id": 8
+    },
+    {
+      "name": "Downtown Crossing",
+      "id": 9
+    },
+    {
+      "name": "South Station",
+      "id": 10
+    },
+    {
+      "name": "Broadway",
+      "id": 11
+    },
+    {
+      "name": "Andrew",
+      "id": 12
+    },
+    {
+      "name": "JFK/UMass",
+      "id": 13
+    },
+    {
+      "name": "Braintree",
+      "id": 14
+    }
+  ],
+  "items":
+  [
+    {
+      "id": 1,
+      "emoji": ":eggplant:",
+      "name": "Eggplant",
+      "description": "example description",
+      "price_min": 10,
+      "price_max": 50
+    },
+    {
+      "id": 2,
+      "emoji": ":cucumber:",
+      "name": "Cucumber",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 3,
+      "emoji": ":green_apple:",
+      "name": "Green Apple",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 4,
+      "emoji": ":hamburger:",
+      "name": "Hamburger",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 5,
+      "emoji": ":soccer:",
+      "name": "Soccer Ball",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 6,
+      "emoji": ":flag_ca:",
+      "name": "Canadian Flag",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 7,
+      "emoji": ":doughnut:",
+      "name": "Donut",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 8,
+      "emoji": ":blue_book:",
+      "name": "Book",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 9,
+      "emoji": ":calendar:",
+      "name": "Calendar",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 10,
+      "emoji": ":coffee:",
+      "name": "Coffee",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 11,
+      "emoji": ":ship:",
+      "name": "Ship",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 12,
+      "emoji": ":tea:",
+      "name": "Tea",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 13,
+      "emoji": ":desktop:",
+      "name": "Computer",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    },
+    {
+      "id": 14,
+      "emoji": ":iphone:",
+      "name": "Phone",
+      "description": "example description",
+      "price_min": 20,
+      "price_max": 40
+    }
+
+
+  ]
+}
